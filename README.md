@@ -7,4 +7,4 @@ like
 kya -> क्या ->(eng)-> What  
 and badhiya -> बढ़िया ->(eng)-> good  
 It is currently in progress...wait fpr version-2.2 :)  
-
+With many voice features  
